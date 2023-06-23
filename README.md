@@ -17,12 +17,9 @@ Technology:
   - Front-end controller: JavaScript
 
 
-| Participants:                             |
-
-| Nguyen Hoang Nhan (Back-end developer)    |
-
-| Tran Minh Gia Khanh (Front-end developer) |
-
-| Ly Hong Khanh (Front-end developer)       |
+Participants:                             
+  - Nguyen Hoang Nhan (Back-end developer)    
+  - Tran Minh Gia Khanh (Front-end developer) 
+  - Ly Hong Khanh (Front-end developer)
 
 
