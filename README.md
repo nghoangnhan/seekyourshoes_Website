@@ -16,10 +16,10 @@ Technology:
   - Back-end controller: Java Servlet
   - Front-end controller: JavaScript
 
----------------------------------------------
+
 | Participants:                             |
 | Nguyen Hoang Nhan (Back-end developer)    |
 | Tran Minh Gia Khanh (Front-end developer) |
 | Ly Hong Khanh (Front-end developer)       |
----------------------------------------------
+
 
